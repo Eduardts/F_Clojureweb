@@ -18,7 +18,17 @@ FIXME: listing of options this app accepts.
 
 ## Examples
 
-...
+To use the system:
+
+Start the Clojure backend:
+
+Copy:
+lein run
+
+Build and run the iOS app:
+
+Copy:
+xcodebuild -scheme HealthMonitor -configuration Debug
 
 ### Bugs
 
